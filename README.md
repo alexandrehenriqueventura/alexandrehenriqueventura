@@ -49,7 +49,7 @@ Sou professor na rede pública de ensino, Coordenador de Educação Tecnológica
   <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:alexandrehenrique.ventura@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://alexandrehenriqueventura.github.io/portfolio-alexandre/" target="_blank">
